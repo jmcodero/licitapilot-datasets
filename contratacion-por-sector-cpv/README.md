@@ -7,7 +7,7 @@ Responde a: *"¿qué sectores mueven más contratación pública, en número y e
 - **Fuente primaria:** Plataforma de Contratación del Sector Público (PLACSP) — https://contrataciondelestado.es
 - **Elaboración:** LicitaPilot — https://licitapilot.com
 - **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Fecha de corte:** 2026-09-22 · **Cobertura:** España
+- **Fecha de corte:** 2026-09-23 · **Cobertura:** España
 
 ## Columnas
 

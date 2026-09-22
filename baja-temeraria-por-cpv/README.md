@@ -7,7 +7,7 @@ Es la señal que responde a una pregunta muy concreta del licitador: *"¿cuánto
 - **Fuente primaria:** Plataforma de Contratación del Sector Público (PLACSP) — https://contrataciondelestado.es
 - **Elaboración:** LicitaPilot — https://licitapilot.com
 - **Licencia:** [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-- **Fecha de corte:** 2026-09-22
+- **Fecha de corte:** 2026-09-23
 - **Cobertura geográfica:** España
 
 ## Ficheros
