@@ -1,5 +1,7 @@
 # LicitaPilot · Datos abiertos de la contratación pública española
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22906295.svg)](https://doi.org/10.5281/zenodo.22906295) [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 Conjuntos de datos abiertos (CC BY 4.0) elaborados por [**LicitaPilot**](https://licitapilot.com) a partir de la **Plataforma de Contratación del Sector Público (PLACSP)**. Publicamos radiografías agregadas de la contratación pública española para que cualquiera —empresas, periodistas, investigadores, administraciones— pueda reutilizarlas.
 
 ## Conjuntos de datos
