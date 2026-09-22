@@ -7,6 +7,8 @@ Conjuntos de datos abiertos (CC BY 4.0) elaborados por [**LicitaPilot**](https:/
 | Dataset | Descripción |
 |---|---|
 | [`baja-temeraria-por-cpv/`](./baja-temeraria-por-cpv) | Baja media (% de rebaja de la oferta ganadora sobre el presupuesto) y nº de contratos por división CPV. |
+| [`contratacion-por-sector-cpv/`](./contratacion-por-sector-cpv) | Nº de contratos e importe total licitado por sector (43 divisiones CPV). |
+| [`contratacion-por-provincia/`](./contratacion-por-provincia) | Nº de contratos e importe total licitado por provincia (52 provincias). |
 
 ## Licencia
 

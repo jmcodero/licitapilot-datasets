@@ -1,0 +1,266 @@
+{
+  "dataset": "contratacion-publica-por-sector-cpv",
+  "fuente": "PLACSP",
+  "licencia": "CC-BY-4.0",
+  "fecha_corte": "2026-09-22",
+  "filas": [
+    {
+      "cpv_division": "45",
+      "sector": "Trabajos de construcción",
+      "num_contratos": 16618,
+      "importe_total_eur": 22286817144.51
+    },
+    {
+      "cpv_division": "50",
+      "sector": "Servicios de reparación y mantenimiento",
+      "num_contratos": 4707,
+      "importe_total_eur": 11301008902.02
+    },
+    {
+      "cpv_division": "90",
+      "sector": "Servicios de alcantarillado, basura, limpieza y medio ambiente",
+      "num_contratos": 3079,
+      "importe_total_eur": 9171566905.62
+    },
+    {
+      "cpv_division": "60",
+      "sector": "Servicios de transporte (excluido el transporte de residuos)",
+      "num_contratos": 1902,
+      "importe_total_eur": 5652579662.07
+    },
+    {
+      "cpv_division": "85",
+      "sector": "Servicios sanitarios y de asistencia social",
+      "num_contratos": 2850,
+      "importe_total_eur": 5401294163.41
+    },
+    {
+      "cpv_division": "34",
+      "sector": "Equipo de transporte y productos auxiliares para el transporte",
+      "num_contratos": 3340,
+      "importe_total_eur": 4561548598.23
+    },
+    {
+      "cpv_division": "33",
+      "sector": "Equipos médicos, farmacéuticos y de higiene personal",
+      "num_contratos": 3729,
+      "importe_total_eur": 4390592158.19
+    },
+    {
+      "cpv_division": "71",
+      "sector": "Servicios de arquitectura, construcción, ingeniería e inspección",
+      "num_contratos": 5485,
+      "importe_total_eur": 3545442287.95
+    },
+    {
+      "cpv_division": "72",
+      "sector": "Servicios de tecnología de la información",
+      "num_contratos": 3177,
+      "importe_total_eur": 3539939096.55
+    },
+    {
+      "cpv_division": "09",
+      "sector": "Productos derivados del petróleo, combustibles, electricidad y otras fuentes de energía",
+      "num_contratos": 1064,
+      "importe_total_eur": 2679112210.37
+    },
+    {
+      "cpv_division": "44",
+      "sector": "Estructuras y materiales de construcción; productos auxiliares para la construcción (excepto aparatos eléctricos)",
+      "num_contratos": 2109,
+      "importe_total_eur": 2302548159.81
+    },
+    {
+      "cpv_division": "79",
+      "sector": "Servicios empresariales: legislación, marketing, consultoría, contratación de personal, imprenta y seguridad",
+      "num_contratos": 5691,
+      "importe_total_eur": 2097436107.51
+    },
+    {
+      "cpv_division": "48",
+      "sector": "Paquetes de software y sistemas de información",
+      "num_contratos": 1811,
+      "importe_total_eur": 1969320548.23
+    },
+    {
+      "cpv_division": "64",
+      "sector": "Servicios postales y de telecomunicaciones",
+      "num_contratos": 578,
+      "importe_total_eur": 1206094129.72
+    },
+    {
+      "cpv_division": "63",
+      "sector": "Servicios auxiliares y adicionales de transporte; servicios de agencias de viaje",
+      "num_contratos": 581,
+      "importe_total_eur": 1194193413.02
+    },
+    {
+      "cpv_division": "77",
+      "sector": "Servicios agrícolas, forestales, hortícolas, acuicultura y apicultura",
+      "num_contratos": 999,
+      "importe_total_eur": 1183546685.32
+    },
+    {
+      "cpv_division": "65",
+      "sector": "Servicios públicos",
+      "num_contratos": 102,
+      "importe_total_eur": 857098319.22
+    },
+    {
+      "cpv_division": "35",
+      "sector": "Equipos de seguridad, extinción de incendios, policía y defensa",
+      "num_contratos": 904,
+      "importe_total_eur": 825036418.91
+    },
+    {
+      "cpv_division": "92",
+      "sector": "Servicios recreativos, culturales y deportivos",
+      "num_contratos": 3935,
+      "importe_total_eur": 797507568.86
+    },
+    {
+      "cpv_division": "66",
+      "sector": "Servicios financieros y de seguros",
+      "num_contratos": 1330,
+      "importe_total_eur": 792188436.57
+    },
+    {
+      "cpv_division": "55",
+      "sector": "Servicios de hostelería, restauración y comercio al por menor",
+      "num_contratos": 2054,
+      "importe_total_eur": 667672096.44
+    },
+    {
+      "cpv_division": "98",
+      "sector": "Otros servicios comunitarios, sociales y personales",
+      "num_contratos": 952,
+      "importe_total_eur": 650935367.83
+    },
+    {
+      "cpv_division": "32",
+      "sector": "Equipos de radio, televisión, comunicación, telecomunicación y afines",
+      "num_contratos": 945,
+      "importe_total_eur": 607465043.28
+    },
+    {
+      "cpv_division": "80",
+      "sector": "Servicios de educación y formación",
+      "num_contratos": 1671,
+      "importe_total_eur": 595531308.7
+    },
+    {
+      "cpv_division": "30",
+      "sector": "Máquinas de oficina, equipos y suministros, excepto ordenadores, impresoras y muebles",
+      "num_contratos": 1775,
+      "importe_total_eur": 543793473.58
+    },
+    {
+      "cpv_division": "70",
+      "sector": "Servicios inmobiliarios",
+      "num_contratos": 477,
+      "importe_total_eur": 538863522.45
+    },
+    {
+      "cpv_division": "39",
+      "sector": "Mobiliario, equipamiento del hogar, electrodomésticos (excluido el alumbrado) y productos de limpieza",
+      "num_contratos": 2131,
+      "importe_total_eur": 466888893.61
+    },
+    {
+      "cpv_division": "31",
+      "sector": "Maquinaria, aparatos, equipos y consumibles eléctricos",
+      "num_contratos": 1284,
+      "importe_total_eur": 447457545.93
+    },
+    {
+      "cpv_division": "42",
+      "sector": "Maquinaria industrial",
+      "num_contratos": 1292,
+      "importe_total_eur": 392127515.66
+    },
+    {
+      "cpv_division": "73",
+      "sector": "Servicios de investigación y desarrollo y servicios de consultoría conexos",
+      "num_contratos": 222,
+      "importe_total_eur": 329204949.46
+    },
+    {
+      "cpv_division": "38",
+      "sector": "Equipos de laboratorio, óptica y de precisión (excepto gafas)",
+      "num_contratos": 895,
+      "importe_total_eur": 282804176.25
+    },
+    {
+      "cpv_division": "14",
+      "sector": "Productos mineros, metales básicos y productos afines",
+      "num_contratos": 301,
+      "importe_total_eur": 246741947.27
+    },
+    {
+      "cpv_division": "15",
+      "sector": "Alimentos, bebidas, tabaco y productos afines",
+      "num_contratos": 758,
+      "importe_total_eur": 229385130.13
+    },
+    {
+      "cpv_division": "18",
+      "sector": "Prendas de vestir, calzado, artículos de viaje y accesorios",
+      "num_contratos": 856,
+      "importe_total_eur": 204378589.02
+    },
+    {
+      "cpv_division": "24",
+      "sector": "Productos químicos",
+      "num_contratos": 458,
+      "importe_total_eur": 165060286.46
+    },
+    {
+      "cpv_division": "51",
+      "sector": "Servicios de instalación (excepto software)",
+      "num_contratos": 380,
+      "importe_total_eur": 159372841.59
+    },
+    {
+      "cpv_division": "03",
+      "sector": "Productos agrícolas, ganaderos, pesqueros, forestales y afines",
+      "num_contratos": 873,
+      "importe_total_eur": 156771419.77
+    },
+    {
+      "cpv_division": "22",
+      "sector": "Impresos y productos afines",
+      "num_contratos": 419,
+      "importe_total_eur": 135512409.15
+    },
+    {
+      "cpv_division": "75",
+      "sector": "Servicios de administración pública, defensa y seguridad social",
+      "num_contratos": 176,
+      "importe_total_eur": 125646378.71
+    },
+    {
+      "cpv_division": "37",
+      "sector": "Instrumentos musicales, artículos deportivos, juegos, juguetes, artesanía, material de bellas artes y accesorios",
+      "num_contratos": 565,
+      "importe_total_eur": 98632061.58
+    },
+    {
+      "cpv_division": "43",
+      "sector": "Maquinaria para minería, canteras y construcción",
+      "num_contratos": 334,
+      "importe_total_eur": 79111355.77
+    },
+    {
+      "cpv_division": "16",
+      "sector": "Maquinaria agrícola",
+      "num_contratos": 137,
+      "importe_total_eur": 13570207.71
+    },
+    {
+      "cpv_division": "19",
+      "sector": "Cuero, materiales textiles y productos de caucho o plástico",
+      "num_contratos": 109,
+      "importe_total_eur": 13016264.5
+    }
+  ]
+}

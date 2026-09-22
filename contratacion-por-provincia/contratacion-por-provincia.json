@@ -1,0 +1,372 @@
+{
+  "dataset": "contratacion-publica-por-provincia",
+  "fuente": "PLACSP",
+  "licencia": "CC-BY-4.0",
+  "fecha_corte": "2026-09-22",
+  "filas": [
+    {
+      "provincia": "Madrid",
+      "comunidad": "Comunidad de Madrid",
+      "codigo_ine": "28",
+      "num_contratos": 12645,
+      "importe_total_eur": 21480447041.72
+    },
+    {
+      "provincia": "Valencia",
+      "comunidad": "Comunidad Valenciana",
+      "codigo_ine": "46",
+      "num_contratos": 4282,
+      "importe_total_eur": 6383045848.13
+    },
+    {
+      "provincia": "Barcelona",
+      "comunidad": "Cataluña",
+      "codigo_ine": "08",
+      "num_contratos": 5016,
+      "importe_total_eur": 3565336660.96
+    },
+    {
+      "provincia": "Zaragoza",
+      "comunidad": "Aragón",
+      "codigo_ine": "50",
+      "num_contratos": 1419,
+      "importe_total_eur": 2617820341.06
+    },
+    {
+      "provincia": "Murcia",
+      "comunidad": "Región de Murcia",
+      "codigo_ine": "30",
+      "num_contratos": 1895,
+      "importe_total_eur": 2463906126.19
+    },
+    {
+      "provincia": "Bizkaia",
+      "comunidad": "País Vasco",
+      "codigo_ine": "48",
+      "num_contratos": 1082,
+      "importe_total_eur": 2031982769.84
+    },
+    {
+      "provincia": "Tenerife",
+      "comunidad": "Canarias",
+      "codigo_ine": "38",
+      "num_contratos": 1448,
+      "importe_total_eur": 1839990967.27
+    },
+    {
+      "provincia": "Málaga",
+      "comunidad": "Andalucía",
+      "codigo_ine": "29",
+      "num_contratos": 2121,
+      "importe_total_eur": 1670295376.19
+    },
+    {
+      "provincia": "Baleares",
+      "comunidad": "Islas Baleares",
+      "codigo_ine": "07",
+      "num_contratos": 2275,
+      "importe_total_eur": 1609854297.65
+    },
+    {
+      "provincia": "Alicante",
+      "comunidad": "Comunidad Valenciana",
+      "codigo_ine": "03",
+      "num_contratos": 2507,
+      "importe_total_eur": 1491300048.51
+    },
+    {
+      "provincia": "Cádiz",
+      "comunidad": "Andalucía",
+      "codigo_ine": "11",
+      "num_contratos": 1866,
+      "importe_total_eur": 1473875635.73
+    },
+    {
+      "provincia": "Las Palmas",
+      "comunidad": "Canarias",
+      "codigo_ine": "35",
+      "num_contratos": 1398,
+      "importe_total_eur": 1424482684.85
+    },
+    {
+      "provincia": "Navarra",
+      "comunidad": "Navarra",
+      "codigo_ine": "31",
+      "num_contratos": 2900,
+      "importe_total_eur": 1412345910.32
+    },
+    {
+      "provincia": "Sevilla",
+      "comunidad": "Andalucía",
+      "codigo_ine": "41",
+      "num_contratos": 2062,
+      "importe_total_eur": 1261006244.13
+    },
+    {
+      "provincia": "Almería",
+      "comunidad": "Andalucía",
+      "codigo_ine": "04",
+      "num_contratos": 973,
+      "importe_total_eur": 1218244941.51
+    },
+    {
+      "provincia": "A Coruña",
+      "comunidad": "Galicia",
+      "codigo_ine": "15",
+      "num_contratos": 1432,
+      "importe_total_eur": 1059883809.57
+    },
+    {
+      "provincia": "Asturias",
+      "comunidad": "Asturias",
+      "codigo_ine": "33",
+      "num_contratos": 1667,
+      "importe_total_eur": 1035318570.64
+    },
+    {
+      "provincia": "Toledo",
+      "comunidad": "Castilla-La Mancha",
+      "codigo_ine": "45",
+      "num_contratos": 851,
+      "importe_total_eur": 922861296.03
+    },
+    {
+      "provincia": "Pontevedra",
+      "comunidad": "Galicia",
+      "codigo_ine": "36",
+      "num_contratos": 886,
+      "importe_total_eur": 905857929.66
+    },
+    {
+      "provincia": "Cantabria",
+      "comunidad": "Cantabria",
+      "codigo_ine": "39",
+      "num_contratos": 1376,
+      "importe_total_eur": 877168332.63
+    },
+    {
+      "provincia": "Jaén",
+      "comunidad": "Andalucía",
+      "codigo_ine": "23",
+      "num_contratos": 692,
+      "importe_total_eur": 762848582.67
+    },
+    {
+      "provincia": "Granada",
+      "comunidad": "Andalucía",
+      "codigo_ine": "18",
+      "num_contratos": 1107,
+      "importe_total_eur": 722458325.37
+    },
+    {
+      "provincia": "Valladolid",
+      "comunidad": "Castilla y León",
+      "codigo_ine": "47",
+      "num_contratos": 974,
+      "importe_total_eur": 710129261.34
+    },
+    {
+      "provincia": "León",
+      "comunidad": "Castilla y León",
+      "codigo_ine": "24",
+      "num_contratos": 999,
+      "importe_total_eur": 698942526.65
+    },
+    {
+      "provincia": "Córdoba",
+      "comunidad": "Andalucía",
+      "codigo_ine": "14",
+      "num_contratos": 1338,
+      "importe_total_eur": 492997681.23
+    },
+    {
+      "provincia": "Álava",
+      "comunidad": "País Vasco",
+      "codigo_ine": "01",
+      "num_contratos": 515,
+      "importe_total_eur": 481257147.81
+    },
+    {
+      "provincia": "Huelva",
+      "comunidad": "Andalucía",
+      "codigo_ine": "21",
+      "num_contratos": 701,
+      "importe_total_eur": 428289969.24
+    },
+    {
+      "provincia": "Castellón",
+      "comunidad": "Comunidad Valenciana",
+      "codigo_ine": "12",
+      "num_contratos": 882,
+      "importe_total_eur": 409240293.08
+    },
+    {
+      "provincia": "Badajoz",
+      "comunidad": "Extremadura",
+      "codigo_ine": "06",
+      "num_contratos": 788,
+      "importe_total_eur": 408350646.63
+    },
+    {
+      "provincia": "Cáceres",
+      "comunidad": "Extremadura",
+      "codigo_ine": "10",
+      "num_contratos": 670,
+      "importe_total_eur": 397305127.06
+    },
+    {
+      "provincia": "Gipuzkoa",
+      "comunidad": "País Vasco",
+      "codigo_ine": "20",
+      "num_contratos": 665,
+      "importe_total_eur": 392452318.09
+    },
+    {
+      "provincia": "Burgos",
+      "comunidad": "Castilla y León",
+      "codigo_ine": "09",
+      "num_contratos": 601,
+      "importe_total_eur": 347956897.8
+    },
+    {
+      "provincia": "Huesca",
+      "comunidad": "Aragón",
+      "codigo_ine": "22",
+      "num_contratos": 564,
+      "importe_total_eur": 323758506.83
+    },
+    {
+      "provincia": "Ourense",
+      "comunidad": "Galicia",
+      "codigo_ine": "32",
+      "num_contratos": 225,
+      "importe_total_eur": 316068976.58
+    },
+    {
+      "provincia": "Ciudad Real",
+      "comunidad": "Castilla-La Mancha",
+      "codigo_ine": "13",
+      "num_contratos": 692,
+      "importe_total_eur": 284274114.48
+    },
+    {
+      "provincia": "Melilla",
+      "comunidad": "Melilla",
+      "codigo_ine": "52",
+      "num_contratos": 389,
+      "importe_total_eur": 202691930.59
+    },
+    {
+      "provincia": "Tarragona",
+      "comunidad": "Cataluña",
+      "codigo_ine": "43",
+      "num_contratos": 826,
+      "importe_total_eur": 200832603.35
+    },
+    {
+      "provincia": "Albacete",
+      "comunidad": "Castilla-La Mancha",
+      "codigo_ine": "02",
+      "num_contratos": 478,
+      "importe_total_eur": 190522682.07
+    },
+    {
+      "provincia": "Guadalajara",
+      "comunidad": "Castilla-La Mancha",
+      "codigo_ine": "19",
+      "num_contratos": 438,
+      "importe_total_eur": 182268060.16
+    },
+    {
+      "provincia": "Girona",
+      "comunidad": "Cataluña",
+      "codigo_ine": "17",
+      "num_contratos": 547,
+      "importe_total_eur": 171379141.02
+    },
+    {
+      "provincia": "Ceuta",
+      "comunidad": "Ceuta",
+      "codigo_ine": "51",
+      "num_contratos": 257,
+      "importe_total_eur": 169601622.7
+    },
+    {
+      "provincia": "La Rioja",
+      "comunidad": "La Rioja",
+      "codigo_ine": "26",
+      "num_contratos": 514,
+      "importe_total_eur": 154428127.02
+    },
+    {
+      "provincia": "Salamanca",
+      "comunidad": "Castilla y León",
+      "codigo_ine": "37",
+      "num_contratos": 570,
+      "importe_total_eur": 151389661.15
+    },
+    {
+      "provincia": "Palencia",
+      "comunidad": "Castilla y León",
+      "codigo_ine": "34",
+      "num_contratos": 369,
+      "importe_total_eur": 118753377.41
+    },
+    {
+      "provincia": "Lleida",
+      "comunidad": "Cataluña",
+      "codigo_ine": "25",
+      "num_contratos": 390,
+      "importe_total_eur": 116243834.94
+    },
+    {
+      "provincia": "Segovia",
+      "comunidad": "Castilla y León",
+      "codigo_ine": "40",
+      "num_contratos": 356,
+      "importe_total_eur": 112660775.13
+    },
+    {
+      "provincia": "Zamora",
+      "comunidad": "Castilla y León",
+      "codigo_ine": "49",
+      "num_contratos": 296,
+      "importe_total_eur": 110057341.63
+    },
+    {
+      "provincia": "Teruel",
+      "comunidad": "Aragón",
+      "codigo_ine": "44",
+      "num_contratos": 364,
+      "importe_total_eur": 101948816.75
+    },
+    {
+      "provincia": "Lugo",
+      "comunidad": "Galicia",
+      "codigo_ine": "27",
+      "num_contratos": 337,
+      "importe_total_eur": 91127597.84
+    },
+    {
+      "provincia": "Ávila",
+      "comunidad": "Castilla y León",
+      "codigo_ine": "05",
+      "num_contratos": 253,
+      "importe_total_eur": 84243543.44
+    },
+    {
+      "provincia": "Cuenca",
+      "comunidad": "Castilla-La Mancha",
+      "codigo_ine": "16",
+      "num_contratos": 309,
+      "importe_total_eur": 69829261.66
+    },
+    {
+      "provincia": "Soria",
+      "comunidad": "Castilla y León",
+      "codigo_ine": "42",
+      "num_contratos": 245,
+      "importe_total_eur": 64852555.19
+    }
+  ]
+}

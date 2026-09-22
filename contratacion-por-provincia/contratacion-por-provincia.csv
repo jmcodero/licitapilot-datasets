@@ -1,0 +1,53 @@
+provincia,comunidad,codigo_ine,num_contratos,importe_total_eur
+Madrid,Comunidad de Madrid,28,12645,21480447041.72
+Valencia,Comunidad Valenciana,46,4282,6383045848.13
+Barcelona,Cataluña,08,5016,3565336660.96
+Zaragoza,Aragón,50,1419,2617820341.06
+Murcia,Región de Murcia,30,1895,2463906126.19
+Bizkaia,País Vasco,48,1082,2031982769.84
+Tenerife,Canarias,38,1448,1839990967.27
+Málaga,Andalucía,29,2121,1670295376.19
+Baleares,Islas Baleares,07,2275,1609854297.65
+Alicante,Comunidad Valenciana,03,2507,1491300048.51
+Cádiz,Andalucía,11,1866,1473875635.73
+Las Palmas,Canarias,35,1398,1424482684.85
+Navarra,Navarra,31,2900,1412345910.32
+Sevilla,Andalucía,41,2062,1261006244.13
+Almería,Andalucía,04,973,1218244941.51
+A Coruña,Galicia,15,1432,1059883809.57
+Asturias,Asturias,33,1667,1035318570.64
+Toledo,Castilla-La Mancha,45,851,922861296.03
+Pontevedra,Galicia,36,886,905857929.66
+Cantabria,Cantabria,39,1376,877168332.63
+Jaén,Andalucía,23,692,762848582.67
+Granada,Andalucía,18,1107,722458325.37
+Valladolid,Castilla y León,47,974,710129261.34
+León,Castilla y León,24,999,698942526.65
+Córdoba,Andalucía,14,1338,492997681.23
+Álava,País Vasco,01,515,481257147.81
+Huelva,Andalucía,21,701,428289969.24
+Castellón,Comunidad Valenciana,12,882,409240293.08
+Badajoz,Extremadura,06,788,408350646.63
+Cáceres,Extremadura,10,670,397305127.06
+Gipuzkoa,País Vasco,20,665,392452318.09
+Burgos,Castilla y León,09,601,347956897.8
+Huesca,Aragón,22,564,323758506.83
+Ourense,Galicia,32,225,316068976.58
+Ciudad Real,Castilla-La Mancha,13,692,284274114.48
+Melilla,Melilla,52,389,202691930.59
+Tarragona,Cataluña,43,826,200832603.35
+Albacete,Castilla-La Mancha,02,478,190522682.07
+Guadalajara,Castilla-La Mancha,19,438,182268060.16
+Girona,Cataluña,17,547,171379141.02
+Ceuta,Ceuta,51,257,169601622.7
+La Rioja,La Rioja,26,514,154428127.02
+Salamanca,Castilla y León,37,570,151389661.15
+Palencia,Castilla y León,34,369,118753377.41
+Lleida,Cataluña,25,390,116243834.94
+Segovia,Castilla y León,40,356,112660775.13
+Zamora,Castilla y León,49,296,110057341.63
+Teruel,Aragón,44,364,101948816.75
+Lugo,Galicia,27,337,91127597.84
+Ávila,Castilla y León,05,253,84243543.44
+Cuenca,Castilla-La Mancha,16,309,69829261.66
+Soria,Castilla y León,42,245,64852555.19
