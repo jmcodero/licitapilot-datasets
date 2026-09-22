@@ -1,0 +1,266 @@
+{
+  "dataset": "baja-media-contratacion-publica-por-cpv",
+  "fuente": "PLACSP",
+  "licencia": "CC-BY-4.0",
+  "fecha_corte": "2026-09-22",
+  "filas": [
+    {
+      "cpv_division": "45",
+      "nombre": "Trabajos de construcción",
+      "num_contratos": 6738,
+      "baja_media_pct": 9.0
+    },
+    {
+      "cpv_division": "79",
+      "nombre": "Servicios empresariales: legislación, marketing, consultoría, contratación de personal, imprenta y seguridad",
+      "num_contratos": 2085,
+      "baja_media_pct": 14.5
+    },
+    {
+      "cpv_division": "92",
+      "nombre": "Servicios recreativos, culturales y deportivos",
+      "num_contratos": 2080,
+      "baja_media_pct": 4.8
+    },
+    {
+      "cpv_division": "71",
+      "nombre": "Servicios de arquitectura, construcción, ingeniería e inspección",
+      "num_contratos": 1894,
+      "baja_media_pct": 16.0
+    },
+    {
+      "cpv_division": "50",
+      "nombre": "Servicios de reparación y mantenimiento",
+      "num_contratos": 1719,
+      "baja_media_pct": 10.4
+    },
+    {
+      "cpv_division": "33",
+      "nombre": "Equipos médicos, farmacéuticos y de higiene personal",
+      "num_contratos": 1419,
+      "baja_media_pct": 7.3
+    },
+    {
+      "cpv_division": "34",
+      "nombre": "Equipo de transporte y productos auxiliares para el transporte",
+      "num_contratos": 1336,
+      "baja_media_pct": 9.9
+    },
+    {
+      "cpv_division": "72",
+      "nombre": "Servicios de tecnología de la información",
+      "num_contratos": 1082,
+      "baja_media_pct": 12.6
+    },
+    {
+      "cpv_division": "85",
+      "nombre": "Servicios sanitarios y de asistencia social",
+      "num_contratos": 999,
+      "baja_media_pct": 9.6
+    },
+    {
+      "cpv_division": "44",
+      "nombre": "Estructuras y materiales de construcción; productos auxiliares para la construcción (excepto aparatos eléctricos)",
+      "num_contratos": 905,
+      "baja_media_pct": 14.0
+    },
+    {
+      "cpv_division": "39",
+      "nombre": "Mobiliario, equipamiento del hogar, electrodomésticos (excluido el alumbrado) y productos de limpieza",
+      "num_contratos": 884,
+      "baja_media_pct": 16.0
+    },
+    {
+      "cpv_division": "30",
+      "nombre": "Máquinas de oficina, equipos y suministros, excepto ordenadores, impresoras y muebles",
+      "num_contratos": 881,
+      "baja_media_pct": 11.7
+    },
+    {
+      "cpv_division": "60",
+      "nombre": "Servicios de transporte (excluido el transporte de residuos)",
+      "num_contratos": 875,
+      "baja_media_pct": 11.1
+    },
+    {
+      "cpv_division": "90",
+      "nombre": "Servicios de alcantarillado, basura, limpieza y medio ambiente",
+      "num_contratos": 836,
+      "baja_media_pct": 15.7
+    },
+    {
+      "cpv_division": "48",
+      "nombre": "Paquetes de software y sistemas de información",
+      "num_contratos": 761,
+      "baja_media_pct": 12.8
+    },
+    {
+      "cpv_division": "42",
+      "nombre": "Maquinaria industrial",
+      "num_contratos": 526,
+      "baja_media_pct": 14.2
+    },
+    {
+      "cpv_division": "31",
+      "nombre": "Maquinaria, aparatos, equipos y consumibles eléctricos",
+      "num_contratos": 513,
+      "baja_media_pct": 15.3
+    },
+    {
+      "cpv_division": "66",
+      "nombre": "Servicios financieros y de seguros",
+      "num_contratos": 465,
+      "baja_media_pct": 22.0
+    },
+    {
+      "cpv_division": "55",
+      "nombre": "Servicios de hostelería, restauración y comercio al por menor",
+      "num_contratos": 398,
+      "baja_media_pct": 7.8
+    },
+    {
+      "cpv_division": "09",
+      "nombre": "Productos derivados del petróleo, combustibles, electricidad y otras fuentes de energía",
+      "num_contratos": 397,
+      "baja_media_pct": 7.8
+    },
+    {
+      "cpv_division": "35",
+      "nombre": "Equipos de seguridad, extinción de incendios, policía y defensa",
+      "num_contratos": 393,
+      "baja_media_pct": 7.6
+    },
+    {
+      "cpv_division": "80",
+      "nombre": "Servicios de educación y formación",
+      "num_contratos": 372,
+      "baja_media_pct": 12.8
+    },
+    {
+      "cpv_division": "18",
+      "nombre": "Prendas de vestir, calzado, artículos de viaje y accesorios",
+      "num_contratos": 355,
+      "baja_media_pct": 11.6
+    },
+    {
+      "cpv_division": "32",
+      "nombre": "Equipos de radio, televisión, comunicación, telecomunicación y afines",
+      "num_contratos": 352,
+      "baja_media_pct": 15.2
+    },
+    {
+      "cpv_division": "38",
+      "nombre": "Equipos de laboratorio, óptica y de precisión (excepto gafas)",
+      "num_contratos": 312,
+      "baja_media_pct": 9.4
+    },
+    {
+      "cpv_division": "15",
+      "nombre": "Alimentos, bebidas, tabaco y productos afines",
+      "num_contratos": 283,
+      "baja_media_pct": 6.8
+    },
+    {
+      "cpv_division": "98",
+      "nombre": "Otros servicios comunitarios, sociales y personales",
+      "num_contratos": 271,
+      "baja_media_pct": 9.6
+    },
+    {
+      "cpv_division": "77",
+      "nombre": "Servicios agrícolas, forestales, hortícolas, acuicultura y apicultura",
+      "num_contratos": 242,
+      "baja_media_pct": 13.1
+    },
+    {
+      "cpv_division": "64",
+      "nombre": "Servicios postales y de telecomunicaciones",
+      "num_contratos": 219,
+      "baja_media_pct": 7.9
+    },
+    {
+      "cpv_division": "63",
+      "nombre": "Servicios auxiliares y adicionales de transporte; servicios de agencias de viaje",
+      "num_contratos": 210,
+      "baja_media_pct": 11.5
+    },
+    {
+      "cpv_division": "22",
+      "nombre": "Impresos y productos afines",
+      "num_contratos": 208,
+      "baja_media_pct": 10.9
+    },
+    {
+      "cpv_division": "24",
+      "nombre": "Productos químicos",
+      "num_contratos": 181,
+      "baja_media_pct": 16.9
+    },
+    {
+      "cpv_division": "14",
+      "nombre": "Productos mineros, metales básicos y productos afines",
+      "num_contratos": 178,
+      "baja_media_pct": 9.5
+    },
+    {
+      "cpv_division": "37",
+      "nombre": "Instrumentos musicales, artículos deportivos, juegos, juguetes, artesanía, material de bellas artes y accesorios",
+      "num_contratos": 162,
+      "baja_media_pct": 11.8
+    },
+    {
+      "cpv_division": "51",
+      "nombre": "Servicios de instalación (excepto software)",
+      "num_contratos": 154,
+      "baja_media_pct": 12.7
+    },
+    {
+      "cpv_division": "03",
+      "nombre": "Productos agrícolas, ganaderos, pesqueros, forestales y afines",
+      "num_contratos": 148,
+      "baja_media_pct": 10.7
+    },
+    {
+      "cpv_division": "43",
+      "nombre": "Maquinaria para minería, canteras y construcción",
+      "num_contratos": 123,
+      "baja_media_pct": 13.2
+    },
+    {
+      "cpv_division": "70",
+      "nombre": "Servicios inmobiliarios",
+      "num_contratos": 117,
+      "baja_media_pct": 7.5
+    },
+    {
+      "cpv_division": "73",
+      "nombre": "Servicios de investigación y desarrollo y servicios de consultoría conexos",
+      "num_contratos": 67,
+      "baja_media_pct": 12.6
+    },
+    {
+      "cpv_division": "75",
+      "nombre": "Servicios de administración pública, defensa y seguridad social",
+      "num_contratos": 67,
+      "baja_media_pct": 8.6
+    },
+    {
+      "cpv_division": "19",
+      "nombre": "Cuero, materiales textiles y productos de caucho o plástico",
+      "num_contratos": 57,
+      "baja_media_pct": 7.9
+    },
+    {
+      "cpv_division": "16",
+      "nombre": "Maquinaria agrícola",
+      "num_contratos": 53,
+      "baja_media_pct": 12.1
+    },
+    {
+      "cpv_division": "65",
+      "nombre": "Servicios públicos",
+      "num_contratos": 21,
+      "baja_media_pct": 13.0
+    }
+  ]
+}
